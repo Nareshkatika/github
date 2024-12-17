@@ -1,3 +1,5 @@
 this is parent component
 you can do any projects and merge here 
 trust me it will change your life like life cycle methods in react like redux toolkit.
+
+this is also edited line kindly merge it with master branch.
